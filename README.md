@@ -2,19 +2,19 @@
 <h3 align="center">Software Engineer | Building practical, real-world tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Final-Year+Engineering Student+%40+VIT+Mumbai;Backend+%2F+Software+Development;Building+ApnaScheme+%E2%80%94+GovTech+on+WhatsApp;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Final-Year+Engineer+%40+VIT+Mumbai;Backend+%2F+Software+Development;Building+ApnaScheme+%E2%80%94+on+WhatsApp;Open+to+SWE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Engineering** student at **Vidyalankar Institute of Technology, Mumbai** 
+- 🎓 Final-year **Engineering** student at **Vidyalankar Institute of Technology, Mumbai** (Mumbai University)
 - 💻 Currently sharpening my skills in **software engineering**
 - 🛠️ Recently completed a **Software Development Internship at ZIRO EDA** (IIT Madras Nirmaan incubated), working on Node.js backend APIs, REST integrations, and contributing to **ZIRO Designer**, an open-source browser-native PCB design tool
-- 🏛️ Building **ApnaScheme**, a WhatsApp-based GovTech platform that helps people discover government schemes in multiple languages, with Razorpay payments built in
+- 🏛️ Building **ApnaScheme**, a WhatsApp-based platform that helps people discover government schemes in multiple languages, with Razorpay payments built in
 - 🌱 Actively learning frontend frameworks to round out my full-stack skill set
-- 🎯 Currently targeting **Software Engineering roles** 
+- 🎯 Currently targeting **Software Engineering roles**
 - ⚡ Fun fact: I like building software that actually solves real life problems
 
 ---
@@ -33,7 +33,7 @@
   <tr>
     <td width="50%">
       <h4>🏛️ ApnaScheme</h4>
-      <p>A WhatsApp-based platform helping citizens discover government schemes in multiple languages, with integrated Razorpay payments.</p>
+      <p>A WhatsApp-based GovTech platform helping citizens discover government schemes in multiple languages, with integrated Razorpay payments.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/WhatsApp%20API-Integration-25D366?logo=whatsapp&logoColor=white" />
@@ -82,10 +82,11 @@ Add more project rows as you build them out, e.g.:
 ---
 
 ### Let's Build Something Useful
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanmange"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryanmange.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://aryan-mange.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-
+<p align="center"><i>⭐ from open, well-structured code — thanks for stopping by!</i></p>
