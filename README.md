@@ -1,15 +1,92 @@
-# 💫 About Me:
-🚀 I’m currently building AI-powered projects<br>🤝 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning AI, backend development & system design<br>💬 Ask me about Python, JavaScript, AI & startups<br>⚡ Fun fact: I love turning ideas into working products
+<h1 align="center">Hi there, I'm Aryan 👋</h1>
+<h3 align="center">Software Engineer in the making | Building practical, real-world tech</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Final-Year+EXTC+Engineer+%40+VIT+Mumbai;Backend+%2F+Software+Development;Building+ApnaScheme+%E2%80%94+GovTech+on+WhatsApp;Open+to+SWE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanmange) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmange.work@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Apnascheme&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Apnascheme&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Apnascheme&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Final-year **Electronics and Telecommunication Engineering** student at **Vidyalankar Institute of Technology, Mumbai** (Mumbai University)
+- 💻 Currently sharpening my skills in **backend development** and **software engineering**, after cutting my teeth on real production code
+- 🛠️ Recently completed a **Software Development Internship at ZIRO EDA** (IIT Madras Nirmaan incubated), working on Node.js backend APIs, REST integrations, and contributing to **ZIRO Designer**, an open-source browser-native PCB design tool
+- 🏛️ Building **ApnaScheme**, a WhatsApp-based GovTech platform that helps people discover government schemes in multiple languages, with Razorpay payments built in
+- 🌱 Actively learning frontend frameworks to round out my full-stack skill set
+- 🎯 Currently targeting **Software Engineering roles** and campus placements
+- ⚡ Fun fact: I like building software that actually reaches people where they already are — like WhatsApp
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,python,java,c,mysql,mongodb,git,github,postman,vscode" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏛️ ApnaScheme</h4>
+      <p>A WhatsApp-based GovTech platform helping citizens discover government schemes in multiple languages, with integrated Razorpay payments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp%20API-Integration-25D366?logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-Payments-0C2451?logo=razorpay&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🔧 ZIRO Designer Contributions</h4>
+      <p>Contributed to an open-source, browser-native PCB design tool during a 7-week internship at ZIRO EDA — backend APIs, integrations, and bug fixes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-API%20Dev-339933?logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST-APIs-FF6C37?logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open%20Source-PCB%20Design-blueviolet" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!--
+Add more project rows as you build them out, e.g.:
+<tr>
+  <td width="50%">
+    <h4>🔗 Project Name</h4>
+    <p>One-line description of what it does and why it matters.</p>
+  </td>
+  <td width="50%">
+    <h4>🔗 Project Name</h4>
+    <p>One-line description of what it does and why it matters.</p>
+  </td>
+</tr>
+-->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@apnascheme.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ from open, well-structured code — thanks for stopping by!</i></p>
