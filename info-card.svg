@@ -1,0 +1,23 @@
+<svg viewBox="0 0 490 196" width="490" height="196"
+     xmlns="http://www.w3.org/2000/svg">
+  <style>
+      .title { font: 700 15px 'SFMono-Regular', Consolas, Menlo, monospace; fill: #58a6ff; }
+      .key   { font: 700 13px 'SFMono-Regular', Consolas, Menlo, monospace; fill: #7ee787; }
+      .val   { font: 400 13px 'SFMono-Regular', Consolas, Menlo, monospace; fill: #c9d1d9; }
+      .dot   { }
+    
+      .row {
+        opacity: 0;
+        transform: translateX(-8px);
+        animation: fadeIn 0.45s ease-out forwards;
+      }
+      @keyframes fadeIn {
+        to { opacity: 1; transform: translateX(0); }
+      }
+      .titlebar {
+        opacity: 0;
+        animation: fadeIn 0.45s ease-out forwards;
+      }
+        </style>
+  <rect x="0.5" y="0.5" width="489" height="195" rx="10" fill="#0d1117" stroke="#30363d"/><circle cx="22" cy="24" r="5" fill="#ff5f56" class="titlebar" style="animation-delay:0.0s"/><circle cx="40" cy="24" r="5" fill="#ffbd2e" class="titlebar" style="animation-delay:0.05s"/><circle cx="58" cy="24" r="5" fill="#27c93f" class="titlebar" style="animation-delay:0.1s"/><text x="86" y="29" class="title titlebar" style="animation-delay:0.2s">aryan@github</text><line x1="0" y1="40" x2="490" y2="40" stroke="#30363d"/><g class="row" style="animation-delay:0.35s"><text x="24" y="52" class="key">Now</text><text x="128" y="52" class="val">Final-year Eng @ VIT Mumbai · Software Dev</text></g><g class="row" style="animation-delay:0.47s"><text x="24" y="82" class="key">Prev</text><text x="128" y="82" class="val">SWE Intern @ ZIRO EDA (IIT Madras Nirmaan)</text></g><g class="row" style="animation-delay:0.59s"><text x="24" y="112" class="key">Stack</text><text x="128" y="112" class="val">Node.js · Express · JS · Python · Java · MongoDB</text></g><g class="row" style="animation-delay:0.71s"><text x="24" y="142" class="key">Highlights</text><text x="128" y="142" class="val">Building ApnaScheme · Contrib. to ZIRO Designer</text></g>
+</svg>
